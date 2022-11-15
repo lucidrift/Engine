@@ -1,4 +1,4 @@
-function(NCXT_Engine_setup_lib LIB_PATH)
+function(LucidRift_Rivot_setup_lib LIB_PATH)
     get_filename_component(LIB_NAME ${LIB_PATH} NAME)
     message(STATUS "Configuring library for '${LIB_NAME}' from '${LIB_PATH}'")
 
